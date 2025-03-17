@@ -1,2 +1,2 @@
 # code-compassions
-A repository that contains codes that implement same ideas but im different ways 
+A repository that contains codes that implement same ideas but in different ways, that is different architectures , languages and designs.
